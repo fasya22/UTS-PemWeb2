@@ -1,0 +1,19 @@
+{
+  "name": "My App",
+  "short_name": "My App",
+  "description": "My App",
+  "icons": [
+    {
+      "src": "../dasha.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "https://uts-20090148.herokuapp.com/index.php",
+  "scope": "https://uts-20090148.herokuapp.com/index.php",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "theme_color": "#fff",
+  "background_color": "#fff"
+}
